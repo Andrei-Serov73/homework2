@@ -25,7 +25,6 @@ int a = 0;
     for (int z = 0; z < array.Length; z++)
     if (array[z] % 2 == 0) a++;
 }
-
 Console.Write($"[");
 ArrayPrint(array);
 Console.Write($"]");

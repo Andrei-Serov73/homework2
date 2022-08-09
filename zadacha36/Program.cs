@@ -33,5 +33,5 @@ int sum = 0;
 }
 Console.Write($"[");
 ArrayPrint(array);
-Console.Write($"]");
-Console.Write($" -> {sum} ");
+Console.Write($"]-> {sum} ");
+//Console.Write($" -> {sum} ");

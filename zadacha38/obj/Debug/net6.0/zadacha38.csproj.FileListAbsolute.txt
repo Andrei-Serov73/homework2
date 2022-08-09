@@ -1,0 +1,15 @@
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfo.cs
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\siminar5\zadacha38\bin\Debug\net6.0\zadacha38.exe
+C:\Users\админ\Desktop\siminar5\zadacha38\bin\Debug\net6.0\zadacha38.deps.json
+C:\Users\админ\Desktop\siminar5\zadacha38\bin\Debug\net6.0\zadacha38.runtimeconfig.json
+C:\Users\админ\Desktop\siminar5\zadacha38\bin\Debug\net6.0\zadacha38.dll
+C:\Users\админ\Desktop\siminar5\zadacha38\bin\Debug\net6.0\zadacha38.pdb
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.dll
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\refint\zadacha38.dll
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.pdb
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\zadacha38.genruntimeconfig.cache
+C:\Users\админ\Desktop\siminar5\zadacha38\obj\Debug\net6.0\ref\zadacha38.dll
